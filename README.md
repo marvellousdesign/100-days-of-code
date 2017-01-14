@@ -7,7 +7,7 @@ I'm taking up the challange to go from 100 to 301 Days Of Code, because ultimate
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-* [#301DaysOfCode](300DaysOfCode.md)
+* [#301DaysOfCode](301DaysOfCode.md)
 
 ### If you've decided to join:
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) & [#301DaysOfCode](http://benjaminspak.com/challenges/301-days-code/) if you are ambitious.
