@@ -68,3 +68,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Finished JavaScript challanges at FreeCodeCamp
 
 **Thoughts**: It seems I spent 4 days finishing this section, and probably not the most effective use my time since I get distracted easily. I still need a better understand of JavaScript by reading other resouces.
+
+### Day 10: Jan 13, 2017 Friday
+
+**Today's Progress**: Joining #301DaysOfCode and progressing onto FCC's Object Oriented and Functional Programming
+
+**Thoughts**: My thoughts are the same as I updated the readme. I'm taking up the challange to go from 100 to 301 Days Of Code, because ultimately I want to go beyond a Designer to Developer(well in anycase, a more well rounded Developer with a sense for Design, and UX/UI).
