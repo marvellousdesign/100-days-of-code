@@ -74,3 +74,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Joining #301DaysOfCode and progressing onto FCC's Object Oriented and Functional Programming
 
 **Thoughts**: My thoughts are the same as I updated the readme. I'm taking up the challange to go from 100 to 301 Days Of Code, because ultimately I want to go beyond a Designer to Developer(well in anycase, a more well rounded Developer with a sense for Design, and UX/UI).
+
+### Day 11: Jan 14, 2017 Saturday
+
+**Today's Progress**: Getting started with Algorithm
+
+**Thoughts**: I'm using other resources to learn about Algorithm such as [Khanacademy's Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms/) by two Dartmouth college professors Tom Cormen and Devin Balkcom, to go along with FreeCodeCamp's basic algorithmic challages for a better understanding.
