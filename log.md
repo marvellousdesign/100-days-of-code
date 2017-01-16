@@ -80,3 +80,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Getting started with Algorithm
 
 **Thoughts**: I'm using other resources to learn about Algorithm such as [Khanacademy's Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms/) by two Dartmouth college professors Tom Cormen and Devin Balkcom, to go along with FreeCodeCamp's basic algorithmic challages for a better understanding.
+
+### Day 12: Jan 15, 2017 Sunday
+
+**Today's Progress**: Continuing with Algorithm
+
+**Thoughts**: I'm doing both FreeCodeCamp & Khanacademy algorithm challanges, and I manage to do a few of them after a busy day.
