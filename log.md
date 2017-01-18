@@ -9,7 +9,6 @@
 **Link(s) to work**:
 Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fcc-projects/tree/master/01%20-%20Tribute%20Page) | [CodePen](https://codepen.io/marvellousdesign/full/vgYOJG/)
 
-
 ### Day 2: Jan 4, 2017 Wednesday
 
 **Today's Progress**: I've finish bootstrap & jQuery lessons from FreeCodeCamp, and started working on a one page portfolio.
@@ -33,7 +32,6 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: I lost my small 3 day streak at FreeCodeCamp, while finishing up my Portfolio, and now I'm moving on to javascript. Although while doing this project, I feel like learning SASS/SCSS would of been helpful.
 
 **Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
-
 
 ### Day 5: Jan 7, 2017 Saturday
 
@@ -86,3 +84,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Continuing with Algorithm
 
 **Thoughts**: I'm doing both FreeCodeCamp & Khanacademy algorithm challanges, and I manage to do a few of them after a busy day.
+
+### Day 13: Jan 17, 2017 Thuesday
+
+**Today's Progress**: Back to the Basics
+
+**Thoughts**: I'm not making strides as I thought I would, so I'm going back to reading Basic JavaScript, then the more in depth part of it via Speaking JS by  Dr. Axel Rauschmayer.
