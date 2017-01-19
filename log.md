@@ -90,3 +90,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Back to the Basics
 
 **Thoughts**: I'm not making strides as I thought I would, so I'm going back to reading Basic JavaScript, then the more in depth part of it via Speaking JS by  Dr. Axel Rauschmayer.
+
+### Day 14: Jan 18, 2017 Wednesday
+
+**Today's Progress**: Back to the Basics cont.
+
+**Thoughts**: Feels like I'm not moving anywhere and things are taking slowly.
