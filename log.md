@@ -96,3 +96,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Back to the Basics cont.
 
 **Thoughts**: Feels like I'm not moving anywhere and things are taking slowly.
+
+### Day 15: Jan 20, 2017 Friday
+
+**Today's Progress**: Back to the Basics cont.
+
+**Thoughts**: Not much progress, but I spent today learning from LearnCode.academy youtube videos.
