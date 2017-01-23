@@ -102,3 +102,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Back to the Basics cont.
 
 **Thoughts**: Not much progress, but I spent today learning from LearnCode.academy youtube videos.
+
+### Day 16: Jan 22, 2017 Sunday
+
+**Today's Progress**: Back to the Basics cont.
+
+**Thoughts**: I seems to be skipping days because of events happening in the city and what not. Slow progress on LearnCode.academy.
