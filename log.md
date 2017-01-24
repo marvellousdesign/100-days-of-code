@@ -108,3 +108,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Back to the Basics cont.
 
 **Thoughts**: I seems to be skipping days because of events happening in the city and what not. Slow progress on LearnCode.academy.
+
+### Day 17: Jan 23, 2017 Monday
+
+**Today's Progress**: Intro to Programming
+
+**Thoughts**: It was the first day of classes and it seems I'll be learning C++ in my Intro to Programming class (CIS 6), hopefully it's not too different to JavaScript. Although I felt like I could solve the problem we worked on the board with JavaScript :smiley:.
