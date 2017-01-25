@@ -114,3 +114,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming
 
 **Thoughts**: It was the first day of classes and it seems I'll be learning C++ in my Intro to Programming class (CIS 6), hopefully it's not too different to JavaScript. Although I felt like I could solve the problem we worked on the board with JavaScript :smiley:.
+
+### Day 18: Jan 24, 2017 Tuesday
+
+**Today's Progress**: FreeCodeCamp Algorithm
+
+**Thoughts**: I finish some algorithm challanges in FreeCodeCamp with just reading Mozilla Developer Network JavaScript documentaion, and avoiding finding answers via StackOverflow and FCC's forum.
