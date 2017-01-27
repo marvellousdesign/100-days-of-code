@@ -126,3 +126,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: C++
 
 **Thoughts**: I'm learning to code C++ in Visual Studio 2015, I'll need to figure out an how to compile C++ on a Mac since that is what I normally use at home. I can see some differences between C++ and Javascript, and some similarities.
+
+### Day 20: Jan 26, 2017 Thursday
+
+**Today's Progress**: FreeCodeCamp Algorithm
+
+**Thoughts**: I finish some more algorithm challanges and have a few more to go for the basic ones. I'm going at them slowly and understading it a bit more as I read the documentation, and other resources if I feel stuck on them.
