@@ -132,3 +132,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: FreeCodeCamp Algorithm
 
 **Thoughts**: I finish some more algorithm challanges and have a few more to go for the basic ones. I'm going at them slowly and understading it a bit more as I read the documentation, and other resources if I feel stuck on them.
+
+### Day 21: Jan 27-28, 2017 Friday-Saturday
+
+**Today's Progress**: Finished FreeCodeCamp Basic Algorithm
+
+**Thoughts**: I finished the last 4 FCC's basic algorithm challanges. There was too many distractions yesterday to count any coding progress or what little, but Happy Lunar New Year!
