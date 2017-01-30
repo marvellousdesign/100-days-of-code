@@ -138,3 +138,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Finished FreeCodeCamp Basic Algorithm
 
 **Thoughts**: I finished the last 4 FCC's basic algorithm challanges. There was too many distractions yesterday to count any coding progress or what little, but Happy Lunar New Year!
+
+### Day 22: Jan 29, 2017 Sunday
+
+**Today's Progress**: Finished FreeCodeCamp JSON APIs and Ajax
+
+**Thoughts**: I finished the FCC's JSON APIs and Ajax challanges, and it was pretty straight forward.
