@@ -123,7 +123,7 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 ### Day 19: Jan 25, 2017 Wednesday
 
-**Today's Progress**: C++
+**Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: I'm learning to code C++ in Visual Studio 2015, I'll need to figure out an how to compile C++ on a Mac since that is what I normally use at home. I can see some differences between C++ and Javascript, and some similarities.
 
@@ -144,3 +144,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Finished FreeCodeCamp JSON APIs and Ajax
 
 **Thoughts**: I finished the FCC's JSON APIs and Ajax challanges, and it was pretty straight forward.
+
+### Day 23: Jan 29, 2017 Sunday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: I started some of the lab excecises after the lecture for Intro to Programming.
