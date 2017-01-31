@@ -145,7 +145,7 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: I finished the FCC's JSON APIs and Ajax challanges, and it was pretty straight forward.
 
-### Day 23: Jan 29, 2017 Sunday
+### Day 23: Jan 30, 2017 Monday
 
 **Today's Progress**: Intro to Programming with C++
 
