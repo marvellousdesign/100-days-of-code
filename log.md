@@ -150,3 +150,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: I started some of the lab excecises after the lecture for Intro to Programming.
+
+### Day 24: Feb 2, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: Went through the lectures, and heard repeatedly that we need to read the book! I finish 2 more lab assignments, one had to do with powers and the other one was a radius of a circle equation I had to turn into c++.
