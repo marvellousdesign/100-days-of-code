@@ -73,29 +73,17 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: My thoughts are the same as I updated the readme. I'm taking up the challange to go from 100 to 301 Days Of Code, because ultimately I want to go beyond a Designer to Developer(well in anycase, a more well rounded Developer with a sense for Design, and UX/UI).
 
-### Day 11: Jan 14, 2017 Saturday
+### Day 11-12: Jan 14-15, 2017 Saturday
 
 **Today's Progress**: Getting started with Algorithm
 
 **Thoughts**: I'm using other resources to learn about Algorithm such as [Khanacademy's Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms/) by two Dartmouth college professors Tom Cormen and Devin Balkcom, to go along with FreeCodeCamp's basic algorithmic challages for a better understanding.
 
-### Day 12: Jan 15, 2017 Sunday
-
-**Today's Progress**: Continuing with Algorithm
-
-**Thoughts**: I'm doing both FreeCodeCamp & Khanacademy algorithm challanges, and I manage to do a few of them after a busy day.
-
-### Day 13: Jan 17, 2017 Thuesday
+### Day 13-14: Jan 17-18, 2017 Thuesday
 
 **Today's Progress**: Back to the Basics
 
 **Thoughts**: I'm not making strides as I thought I would, so I'm going back to reading Basic JavaScript, then the more in depth part of it via Speaking JS by  Dr. Axel Rauschmayer.
-
-### Day 14: Jan 18, 2017 Wednesday
-
-**Today's Progress**: Back to the Basics cont.
-
-**Thoughts**: Feels like I'm not moving anywhere and things are taking slowly.
 
 ### Day 15: Jan 20, 2017 Friday
 
@@ -133,26 +121,32 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: I finish some more algorithm challanges and have a few more to go for the basic ones. I'm going at them slowly and understading it a bit more as I read the documentation, and other resources if I feel stuck on them.
 
-### Day 21: Jan 27-28, 2017 Friday-Saturday
+### Day 21-22: Jan 27-28, 2017 Friday-Saturday
 
 **Today's Progress**: Finished FreeCodeCamp Basic Algorithm
 
 **Thoughts**: I finished the last 4 FCC's basic algorithm challanges. There was too many distractions yesterday to count any coding progress or what little, but Happy Lunar New Year!
 
-### Day 22: Jan 29, 2017 Sunday
+### Day 23: Jan 29, 2017 Sunday
 
 **Today's Progress**: Finished FreeCodeCamp JSON APIs and Ajax
 
 **Thoughts**: I finished the FCC's JSON APIs and Ajax challanges, and it was pretty straight forward.
 
-### Day 23: Jan 30, 2017 Monday
+### Day 24: Jan 30, 2017 Monday
 
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: I started some of the lab excecises after the lecture for Intro to Programming.
 
-### Day 24: Feb 2, 2017 Wednesday
+### Day 25: Feb 2, 2017 Wednesday
 
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: Went through the lectures, and heard repeatedly that we need to read the book! I finish 2 more lab assignments, one had to do with powers and the other one was a radius of a circle equation I had to turn into c++.
+
+### Day 26-27: Feb 4-5, 2017 Saturday-Sunday
+
+**Today's Progress**: Intermediate Front End Dev Projects % C++ Readings
+
+**Thoughts**: Start off slowly on FCC's Intermediate Front End Development Projects (as I dunno where to start, but just need a motovation to do it!) and playing catch up reading Starting out with C++ for class on Monday.
