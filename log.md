@@ -147,7 +147,7 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: Went through the lectures, and heard repeatedly that we need to read the book! I finish 2 more lab assignments, one had to do with powers and the other one was a radius of a circle equation I had to turn into c++.
 
-**Link(s) to work:** [Area of a Circle](https://github.com/marvellousdesign/CIS106/blob/master/lab01c-Circle.cpp), [Change Calculator](https://github.com/marvellousdesign/CIS106/blob/master/lab01d-ChangeCalculator.cpp)
+**Link(s) to work:** [Distance Between Two Points](https://github.com/marvellousdesign/CIS106/blob/master/lab01b-DistanceBetweenTwoPoints.cpp), [Area of a Circle](https://github.com/marvellousdesign/CIS106/blob/master/lab01c-Circle.cpp)
 
 ### Day 26-27: Feb 4-5, 2017 Saturday-Sunday
 
