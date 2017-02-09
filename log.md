@@ -139,14 +139,38 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: I started some of the lab excecises after the lecture for Intro to Programming.
 
+**Link(s) to work:** [CIS106 Repo](https://github.com/marvellousdesign/CIS106)
+
 ### Day 25: Feb 2, 2017 Wednesday
 
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: Went through the lectures, and heard repeatedly that we need to read the book! I finish 2 more lab assignments, one had to do with powers and the other one was a radius of a circle equation I had to turn into c++.
 
+**Link(s) to work:** [Area of a Circle](https://github.com/marvellousdesign/CIS106/blob/master/lab01c-Circle.cpp), [Change Calculator](https://github.com/marvellousdesign/CIS106/blob/master/lab01d-ChangeCalculator.cpp)
+
 ### Day 26-27: Feb 4-5, 2017 Saturday-Sunday
 
 **Today's Progress**: Intermediate Front End Dev Projects % C++ Readings
 
 **Thoughts**: Start off slowly on FCC's Intermediate Front End Development Projects (as I dunno where to start, but just need a motovation to do it!) and playing catch up reading Starting out with C++ for class on Monday.
+
+### Day 28: Feb 6, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We gone through Chapter 2 on Integers & Doubles, how one can convert to binary, while the other one will give errors because of the floating-points. We went through some of the lab assignments such as the Area of a Circle using pow, as there are no exponents in C++, and the Change Calculator with modulus.
+
+**Link(s) to work:** [Area of a Circle](https://github.com/marvellousdesign/CIS106/blob/master/lab01c-Circle.cpp), [Change Calculator](https://github.com/marvellousdesign/CIS106/blob/master/lab01d-ChangeCalculator.cpp)
+
+### Day 29: Feb 7, 2017 Tuesday
+
+**Today's Progress**: CodeCombat & Lenovo®
+
+**Thoughts**: I like my learning to be interactive and I haven't play CodeCombat in a while. I just sign up for [Lenovo® Game State “Code & Play Challenge”](https://lenovogamestate.com) as I saw it on my email from CodeCombat. So you can learn to code by playing and entered to win a potental prize from Lenovo®.
+
+### Day 30: Feb 8, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We review a little bit about Chap 2, 3 & 4 of Starting out with C++ From Control Structures through Objects. I did 2 more parts of the lab assignements about coding a Tax Calulator and Grades converter, both with if/else statements.
