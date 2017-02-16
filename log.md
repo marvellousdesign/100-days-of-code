@@ -174,3 +174,15 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We review a little bit about Chap 2, 3 & 4 of Starting out with C++ From Control Structures through Objects. I did 2 more parts of the lab assignements about coding a Tax Calulator and Grades converter, both with if/else statements.
+
+### Day 31: Feb 13, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++, plus a little break
+
+**Thoughts**: We review Chapter 4 on if, if else, nested if and else if statements in c++. Seems I need to get back into the grind with these missing days.
+
+### Day 32: Feb 15, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: More review on if/else statements, switches and case, enum, and a little bit of discossion on what algorithm would you use to find a phone number and sorting top 200 students out of 1000(binary search and selection sort?).
