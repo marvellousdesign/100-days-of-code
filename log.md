@@ -186,3 +186,22 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: More review on if/else statements, switches and case, enum, and a little bit of discossion on what algorithm would you use to find a phone number and sorting top 200 students out of 1000(binary search and selection sort?).
+
+### Day 33: Feb 22, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: More reviews on the firsts three problems on the second lab assignment, reviewed Chapter 5 on the different loops; while loop, do while, for loop.
+
+### Day 34: Feb 27, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: More reviews on loops and the lab assignments.
+
+### Day 35: March 1, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: More reviews on loops and the lab assignments. I did the first three assignments on multipling by adding a number multiple times, reverse a number and a star with the function pow(2, a).
+
