@@ -205,3 +205,8 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: More reviews on loops and the lab assignments. I did the first three assignments on multipling by adding a number multiple times, reverse a number and a star with the function pow(2, a).
 
+### Day 36: March 6, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++, and Indepentant Studies
+
+**Thoughts**: We reviewed Chapter 6 on functions in C++. I went to Indepentant Studies outside of BCC, and spoke about the focus of the next four weeks. Will be researching, learning and making a small lession on CSS Animations with two other folks, and most likely a good time to finish the web design track at TeamTreeHouse.
