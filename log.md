@@ -203,10 +203,16 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Today's Progress**: Intro to Programming with C++
 
-**Thoughts**: More reviews on loops and the lab assignments. I did the first three assignments on multipling by adding a number multiple times, reverse a number and a star with the function pow(2, a).
+**Thoughts**: More reviews on loops and the lab assignments. I did the first three assignments on multipling by adding a number multiple times, reverse a number, and a print out a series of '*' with the function of pow(2, a).
 
 ### Day 36: March 6, 2017 Monday
 
 **Today's Progress**: Intro to Programming with C++, and Indepentant Studies
 
 **Thoughts**: We reviewed Chapter 6 on functions in C++. I went to Indepentant Studies outside of BCC, and spoke about the focus of the next four weeks. Will be researching, learning and making a small lession on CSS Animations with two other folks, and most likely a good time to finish the web design track at TeamTreeHouse.
+
+### Day 37: March 8, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: More reviews on functions and I finish few more lab assignments on counting vowels & consonants in a word, calculating Fibonacci numbers in a while loop, and in the process of figuring out how to turn the interests and mortgage payment equation into code.
