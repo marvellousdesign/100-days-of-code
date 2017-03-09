@@ -185,7 +185,7 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Today's Progress**: Intro to Programming with C++
 
-**Thoughts**: More review on if/else statements, switches and case, enum, and a little bit of discossion on what algorithm would you use to find a phone number and sorting top 200 students out of 1000(binary search and selection sort?).
+**Thoughts**: More review on if/else statements, switches and case, enum, and a little bit of discussion on what algorithm would you use to find a phone number and sorting top 200 students out of 1000(binary search and selection sort?).
 
 ### Day 33: Feb 22, 2017 Wednesday
 
@@ -215,4 +215,4 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Today's Progress**: Intro to Programming with C++
 
-**Thoughts**: More reviews on functions and I finish few more lab assignments on counting vowels & consonants in a word, calculating Fibonacci numbers in a while loop, and in the process of figuring out how to turn the interests and mortgage payment equation into code.
+**Thoughts**: More reviews on functions and I finish few more problems in the lab assignments on counting vowels & consonants in a word, calculating Fibonacci numbers in a while loop, and in the process of figuring out how to turn the interests and mortgage payment equation into code.
