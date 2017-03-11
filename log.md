@@ -217,7 +217,7 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: More reviews on functions and I finish few more problems in the lab assignments on counting vowels & consonants in a word, calculating Fibonacci numbers in a while loop, and in the process of figuring out how to turn the interests and mortgage payment equation into code.
 
-### Day 38: March 9, 2017 Thursday
+### Day 38-39: March 9, 2017 Thursday-Friday
 
 **Today's Progress**: CSS Transitions and Transforms
 
