@@ -222,3 +222,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: CSS Transitions and Transforms
 
 **Thoughts**: I continued the Web Design track at [Team Tree House](teamtreehouse.com) on CSS Transitions and Transforms.
+
+### Day 40: March 10, 2017 Saturday
+
+**Today's Progress**: Unity and C#
+
+**Thoughts**: I follow along the 2D Essential Training for Unity, to get use to the interface and the scripting. I'll probably learn C# in the future if I want to go into game dev. I read about UnityScript(Unity version of JavaScript), and will likely avoid using that because of classes.
