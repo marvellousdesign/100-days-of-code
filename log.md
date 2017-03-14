@@ -217,14 +217,20 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: More reviews on functions and I finish few more problems in the lab assignments on counting vowels & consonants in a word, calculating Fibonacci numbers in a while loop, and in the process of figuring out how to turn the interests and mortgage payment equation into code.
 
-### Day 38-39: March 9, 2017 Thursday-Friday
+### Day 38-39: March 9-10, 2017 Thursday-Friday
 
 **Today's Progress**: CSS Transitions and Transforms
 
 **Thoughts**: I continued the Web Design track at [Team Tree House](teamtreehouse.com) on CSS Transitions and Transforms.
 
-### Day 40: March 10, 2017 Saturday
+### Day 40: March 11, 2017 Saturday
 
 **Today's Progress**: Unity and C#
 
 **Thoughts**: I follow along the 2D Essential Training for Unity, to get use to the interface and the scripting. I'll probably learn C# in the future if I want to go into game dev. I read about UnityScript(Unity version of JavaScript), and will likely avoid using that because of classes.
+
+### Day 41: March 13, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++, and Indepentant Studies
+
+**Thoughts**: We continue to focus on functions, and I figure out how to code the Mortgage Interest & Payment for lab(to print out monthly payment, interests, amount to principal and end to principal in a for loop of 3 years of payments). In Indepentant Studies, I sat in a wordpress demo of how to install it locally on your manchine with MAMP, or whichever flavor of it depending on your OS, etc.
