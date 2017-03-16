@@ -234,3 +234,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++, and Indepentant Studies
 
 **Thoughts**: We continue to focus on functions, and I figure out how to code the Mortgage Interest & Payment for lab(to print out monthly payment, interests, amount to principal and end to principal in a for loop of 3 years of payments). In Indepentant Studies, I sat in a wordpress demo of how to install it locally on your manchine with MAMP, or whichever flavor of it depending on your OS, etc.
+
+### Day 42: March 15, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We focus on 1 and 2 dimensional arrays in Chapter 8, and he spoke a little bit on 3 dimensional arrays. I tried to understand how to output a histogram with arrays in a for loop(some where in my program is bugged), but for now I used 10 if statements.
