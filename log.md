@@ -240,3 +240,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We focus on 1 and 2 dimensional arrays in Chapter 8, and he spoke a little bit on 3 dimensional arrays. I tried to understand how to output a histogram with arrays in a for loop(some where in my program is bugged), but for now I used 10 if statements.
+
+### Day 43: March 16, 2017 Thursday
+
+**Today's Progress**: Mini JavaScript Bootcamp by LambdaSchool
+
+**Thoughts**: I caught the last lesson live on Advance Javascript, they talked about closures and recursions. I elimnated a few lines in my looping Finonacci program in C++.
