@@ -246,3 +246,15 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Mini JavaScript Bootcamp by LambdaSchool
 
 **Thoughts**: I caught the last lesson live on Advance Javascript, they talked about closures and recursions. I elimnated a few lines in my looping Finonacci program in C++.
+
+### Day 44: March 16, 2017 Friday
+
+**Today's Progress**: Email Marketing
+
+**Thoughts**: I started doing email marketing(HTML tables and inline CSS) and will do more of it for the coming days, weeks for my non-profit that I volunteer for as I need to get more ads and finialize the program booklet for our event in April.
+
+### Day 45: March 16, 2017 Saturday
+
+**Today's Progress**: SoloLearn C++
+
+**Thoughts**: I sign up for SoloLearn and started their C++ tutorial to get more practice, I finish their Basic Concepts and test out of Conditionals and Loops, Data Types, Arrays and Pointers, and move onto Functions.
