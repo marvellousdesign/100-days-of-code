@@ -264,3 +264,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: SoloLearn C++, HTML & CSS
 
 **Thoughts**: Did their Functions, Classes and Objects, and I'm on More on Classes for C++. Finish their HTML and CSS foundations.
+
+### Day 47: March 20, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We continue with arrays and talked about sorting algorithms(selection sort and bubble sort). I continue working on my histogram program, one for doubles with random numbers generated from 0.0 to 1.0, and one for ints with random numbers generated from 0 to 10, and iterating a counter from 0 to 10 and plotting it.
