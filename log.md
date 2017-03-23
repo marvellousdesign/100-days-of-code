@@ -270,3 +270,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We continue with arrays and talked about sorting algorithms(selection sort and bubble sort). I continue working on my histogram program, one for doubles with random numbers generated from 0.0 to 1.0, and one for ints with random numbers generated from 0 to 10, and iterating a counter from 0 to 10 and plotting it.
+
+### Day 48: March 22, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We talked about searching(linear and binary search). I continue working on my histogram program, and fixed the 2nd one which is suppose to itterate over a sum of 10 random numbers.
