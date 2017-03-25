@@ -175,6 +175,8 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: We review a little bit about Chap 2, 3 & 4 of Starting out with C++ From Control Structures through Objects. I did 2 more parts of the lab assignements about coding a Tax Calulator and Grades converter, both with if/else statements.
 
+**Link(s) to work:** [Tax Calculator](https://github.com/marvellousdesign/CIS106/blob/master/lab01e-TaxCalculator.cpp), [Grades](https://github.com/marvellousdesign/CIS106/blob/master/lab01f-Grades.cpp)
+
 ### Day 31: Feb 13, 2017 Monday
 
 **Today's Progress**: Intro to Programming with C++, plus a little break
@@ -204,6 +206,8 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: More reviews on loops and the lab assignments. I did the first three assignments on multipling by adding a number multiple times, reverse a number, and a print out a series of '*' with the function of pow(2, a).
+
+**Link(s) to work:** [Multiplication(by addition)](https://github.com/marvellousdesign/CIS106/blob/master/lab02-1-Multiplication.cpp), [Reverse a Number](https://github.com/marvellousdesign/CIS106/blob/master/lab02-2-ReverseANumber.cpp), [Stars](https://github.com/marvellousdesign/CIS106/blob/master/lab02-3-Stars.cpp)
 
 ### Day 36: March 6, 2017 Monday
 
