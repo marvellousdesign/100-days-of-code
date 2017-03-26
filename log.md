@@ -280,3 +280,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We talked about searching(linear and binary search). I continue working on my histogram program, and fixed the 2nd one which is suppose to itterate over a sum of 10 random numbers.
+
+### Day 49: March 25, 2017 Saturday
+
+**Today's Progress**: SoloLearn JavaScript
+
+**Thoughts**: Started practicing JavaScript on SoloLearn.
