@@ -281,8 +281,8 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Thoughts**: We talked about searching(linear and binary search). I continue working on my histogram program, and fixed the 2nd one which is suppose to itterate over a sum of 10 random numbers.
 
-### Day 49: March 25, 2017 Saturday
+### Day 49-50: March 25-26, 2017 Saturday-Sunday
 
 **Today's Progress**: SoloLearn JavaScript
 
-**Thoughts**: Started practicing JavaScript on SoloLearn.
+**Thoughts**: Started practicing JavaScript on SoloLearn after the CSS one, and finished it on Sunday.
