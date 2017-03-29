@@ -286,3 +286,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: SoloLearn JavaScript
 
 **Thoughts**: Started practicing JavaScript on SoloLearn after the CSS one, and finished it on Sunday.
+
+### Day 51: March 27, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We talked about pointers, and I finished lab 2.
