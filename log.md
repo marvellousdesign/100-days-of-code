@@ -292,3 +292,15 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We talked about pointers, and I finished lab 2.
+
+### Day 52: Apirl 3, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We talked about arrays in C and C++, and I started on lab 3 homework.
+
+### Day 53: Apirl 4, 2017 Tuesday
+
+**Today's Progress**: Unity
+
+**Thoughts**: I follow along a Lynda course on Unity 5 2D Essential Training (2015) and follow along their C# tutorials.
