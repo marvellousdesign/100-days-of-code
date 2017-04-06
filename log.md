@@ -304,3 +304,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Unity
 
 **Thoughts**: I follow along a Lynda course on Unity 5 2D Essential Training (2015) and follow along their C# tutorials.
+
+### Day 54: Apirl 5, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We talked about recursion, and stackoverflow(not the forum where you copy and paste your code). I did some of the lab work with recursion and trying to understand it.
