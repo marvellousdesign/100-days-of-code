@@ -310,3 +310,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We talked about recursion, and stackoverflow(not the forum where you copy and paste your code). I did some of the lab work with recursion and trying to understand it.
+
+### Day 55: Apirl 10, 2017 Monday
+
+**Today's Progress**: JavaScript and DOM
+
+**Thoughts**: I found a great resource to learn about Dom scripting for JavaScript just for fun and adding links to an existing page.
