@@ -316,3 +316,5 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: JavaScript and DOM
 
 **Thoughts**: I found a great resource to learn about Dom scripting for JavaScript just for fun and adding links to an existing page.
+
+**Link(s) to work:** [CT Links userscript](https://github.com/marvellousdesign/learning-js/blob/master/playground/CT-Links.user.js)
