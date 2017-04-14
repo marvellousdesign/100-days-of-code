@@ -318,3 +318,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: I found a great resource to learn about Dom scripting for JavaScript just for fun and adding links to an existing page.
 
 **Link(s) to work:** [CT Links userscript](https://github.com/marvellousdesign/learning-js/blob/master/playground/CT-Links.user.js)
+
+### Day 56: Apirl 13, 2017 Thursday
+
+**Today's Progress**: CSS Animation
+
+**Thoughts**: I'm making use of my free 1 year of SitePoint Premium. I'm doing their course on Animating with CSS as I need present to my Independent Studies about CSS Animations.
