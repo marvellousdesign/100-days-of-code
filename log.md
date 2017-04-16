@@ -319,7 +319,7 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Link(s) to work:** [CT Links userscript](https://github.com/marvellousdesign/learning-js/blob/master/playground/CT-Links.user.js)
 
-### Day 56-57: Apirl 13-14, 2017 Thursday-Friday
+### Day 56-58: Apirl 13-15, 2017 Thursday-Saturday
 
 **Today's Progress**: CSS Animation
 
