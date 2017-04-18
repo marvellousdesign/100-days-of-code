@@ -324,3 +324,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: CSS Animation
 
 **Thoughts**: I'm making use of my free 1 year of SitePoint Premium. I'm doing their course on Animating with CSS as I need present to my Independent Studies about CSS Animations.
+
+### Day 59: Apirl 17, 2017 Monday
+
+**Today's Progress**: CSS Animation
+
+**Thoughts**: Worked on a CSS animation, keyframing visibility and transformX an icon & text after the page loads and it drops down.
