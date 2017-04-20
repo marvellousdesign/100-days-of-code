@@ -329,4 +329,10 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Today's Progress**: CSS Animation
 
-**Thoughts**: Worked on a CSS animation, keyframing visibility and transformX an icon & text after the page loads and it drops down.
+**Thoughts**: Worked on a CSS animation as an example of something bounching on the page after loading, and presented my findings/research on CSS Animations.
+
+### Day 60: Apirl 19, 2017 Wednesday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We talk about classes, I did lab work on another Finonacci program with recursions, and started the others.
