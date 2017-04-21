@@ -336,3 +336,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Intro to Programming with C++
 
 **Thoughts**: We talk about classes, I did lab work on another Finonacci program with recursions, and started the others.
+
+### Day 61: Apirl 20, 2017 Thursday
+
+**Today's Progress**: Git
+
+**Thoughts**: Trying out Git and learning through [learngitbranching.js.org](http://learngitbranching.js.org) as our indepedent studies will cover it next week.
