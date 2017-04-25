@@ -342,3 +342,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Git
 
 **Thoughts**: Trying out Git and learning through [learngitbranching.js.org](http://learngitbranching.js.org) as our indepedent studies will cover it next week.
+
+### Day 62: Apirl 24, 2017 Monday
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: We talk more about classes and contructors.
