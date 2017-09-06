@@ -347,4 +347,13 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 
 **Today's Progress**: Intro to Programming with C++
 
-**Thoughts**: We talk more about classes and contructors.
+**Thoughts**: We talk more about classes and constructors.
+
+### Day 63+: Apirl 26-May 24, 2017
+
+**Today's Progress**: Intro to Programming with C++
+
+**Thoughts**: Worked on finishing lab 3 programs, did not get to lab 4 and the game of life program.
+
+### End of 100 Days of Code
+As I focus on Vid Production A for the summer 2017, a Multimedia Art's core class.
