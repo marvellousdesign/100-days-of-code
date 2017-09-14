@@ -26,7 +26,7 @@ I'm aiming to use C# in Unity for game design and I've also backed [Zenva: Game 
 
 **Today's Progress**: Understanding the DOM
 
-**Thoughts**: We how to use the command line, the DOM(Document Object Model), review on html selectors and tags, css rulesets, and setting up Atom.
+**Thoughts**: We learn how to use the command line, the DOM(Document Object Model), review on html selectors and tags, css rulesets, and setting up Atom.
 
 
 ### Day 7-9: Sep 1-3, 2017
@@ -42,7 +42,7 @@ I'm aiming to use C# in Unity for game design and I've also backed [Zenva: Game 
 
 **Today's Progress**: Rewatch 1/2 of [Foundations Programming: Fundamentals](https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html) @ Lynda
 
-**Thoughts**: Getting back to the basics of JavaScript, it's a good thing that JavaScript is a C-based programming language. It will definitely help with solidify knoeledge with what I already know from C++ and reviewing more JavaScript courses/youtube vids.
+**Thoughts**: Getting back to the basics, and it's a good thing that JavaScript is a C-based programming language. It will definitely help with solidify knowledge with what I already know from C++ and reviewing more JavaScript courses/youtube vids.
 
 
 ### Day 11: Sep 6, 2017
