@@ -66,13 +66,13 @@ I'm aiming to use C# in Unity for game design and I've also backed [Zenva: Game 
 **Thoughts**: It's 21-day challenge, and it'll help with learning JavaScript fundamentals.
 
 
-### Day 16-: Sep 11-14, 2017
+### Day 16-19: Sep 11-14, 2017
 
 **Today's Progress**: Getting Lost in C#, HW03 for JavaScript, & Zipping through [Learn.co](https://learn.co/marvellousdesign)
 
 **Thoughts on C#**: More on Classes, Constructors, Methods, Private & Public..
 
-**Thoughts on JavaScript#**: JavaScript DOM Manipulations of a sample Twitter page. Since I already read web dev articles and it's required to write an anaysis for class, and I guess can try to improve my writing.
+**Thoughts on JavaScript#**: JavaScript DOM Manipulations of a sample Twitter page. It's required to write an anaysis for class, and since I already read web dev articles I guess can try to improve my writing.
 
 **Thoughts on Learn.co**: I'm 48% (23 / 47 completed) of the JavaScript fundamentals lessons. I like their structure in their lessons and labs, although some of their lab instructions isn't that clear, but they have good support. Although sometimes I figure it out myself after asking the questions. Finish the short course on [Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html) @ Lynda.
 
